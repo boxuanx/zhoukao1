@@ -1,0 +1,1 @@
+function fun(r){for(var n=r.sort(),o=0;o<n.length;o++)n[o]!==n[o+1]&&brr.push(n[o]);return brr}var arr=["0","1","2","0","7","1"],brr=[];console.log(fun(arr));
